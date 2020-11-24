@@ -4,7 +4,7 @@
 
 // HOW TO
 // 1) Install Scriptable @ https://apps.apple.com/us/app/scriptable/id1405459188
-// 5) Copy this entire script in to Scriptable (tip: you can send it to your iPhone via Whatsapp/Messenger/Telegram etc)
+// 2) Copy this entire script in to Scriptable (tip: you can send it to your iPhone via Whatsapp/Messenger/Telegram etc)
 
 const endpoint = "https://api.hellogold.com/prod/api/v2/spot_price.json"
 const req = new Request(endpoint)
